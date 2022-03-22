@@ -1,8 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm Na202S</h1>
 
-<!--
-**Na202S/Na202S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=na202s&style=flat-square&label=PROFILE+VIEWS" alt="na202s"/> </p>
+ -->
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=na202s" /></a> </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=na202s&layout=compact" alt="na202s" />
+  <img src="https://github-readme-stats.vercel.app/api?username=na202s&show_icons=true" alt="na202s" />
+</p>
+
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
