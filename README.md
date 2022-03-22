@@ -1,5 +1,9 @@
 <h1 align="center">Hi there👋, I'm Na202S</h1>
 
+📺 I'm an active content creator @ BiliBili 👉 [香辣鸡排蛋包饭](https://space.bilibili.com/363956974)(Spicy Chicken Steak Omelette Rice 🤤)
+
+<!-- 👩🏻‍💻 I'm a incoming Software Development Engineer Intern @ Meta
+ -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=na202s&style=flat-square&label=PROFILE+VIEWS" alt="na202s"/> </p>
  -->
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=na202s" /></a> </p>
